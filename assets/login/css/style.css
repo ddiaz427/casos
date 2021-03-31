@@ -1,0 +1,10 @@
+body{
+    background-color: #E6E6E6;
+}
+.login{
+    float: none;
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    padding: 0px;
+}
